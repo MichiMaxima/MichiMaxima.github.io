@@ -1,4 +1,4 @@
-theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/hacker@v0.2.0
 title: This is the personal homepage of Michelle Reimann, Computer Science student at University of Bayreuth (Germany)
 description: What you will find here are short descriptions about myself and repositories related to my study.
 plugins:
