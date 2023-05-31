@@ -21,4 +21,4 @@ I'm the first person studying in my family, that's why I engage in the **Arbeite
 
 > Be yourself, everyone else is already taken. - Oscar Wilde
 
-![Japan]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/MichiMaxima/MichiMaxima.github.io/blob/a83c1a2f343542d719d83bc692ed65f734e18b97/TokyoPark.JPEG))
+![Japan](https://github.com/MichiMaxima/MichiMaxima.github.io/blob/a83c1a2f343542d719d83bc692ed65f734e18b97/TokyoPark.JPEG)
