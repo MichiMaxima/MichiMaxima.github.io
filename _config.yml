@@ -3,5 +3,5 @@ title: This is the personal homepage of Michelle Reimann, Computer Science stude
 description: What you will find here are short descriptions about myself and repositories related to my study.
 plugins:
   - jemoji
-url: "https://MichiMaxima.github.io/";
+url: "https://MichiMaxima.github.io/"
 markdown: kramdown
