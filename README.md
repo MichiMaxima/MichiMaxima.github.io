@@ -20,5 +20,5 @@ I'm the first person studying in my family, that's why I engage in the **Arbeite
 
 
 > Be yourself, everyone else is already taken. - Oscar Wilde
-
+<img src="https://github.com/MichiMaxima/MichiMaxima.github.io/blob/a83c1a2f343542d719d83bc692ed65f734e18b97/TokyoPark.JPEG" width="300" />
 ![Japan](https://github.com/MichiMaxima/MichiMaxima.github.io/blob/a83c1a2f343542d719d83bc692ed65f734e18b97/TokyoPark.JPEG)
