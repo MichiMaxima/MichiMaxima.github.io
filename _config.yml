@@ -37,7 +37,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Education
-    url:               https://michimaxima.github.io/education/
+    url:               ./education/
   - title:             Private
     url:               /private/
 
